@@ -1,4 +1,4 @@
-7- 👋 Hi, I’m @GivenMogowe
+- 👋 Hi, I’m @GivenMogowe
 - 👀 I’m interested in sharing my skills to the organizations that i will be working with in the future.
 - 🌱 I’m currently learning Diploma in Information Technology Management at Rosebank College in my final year
 - 💞️ I’m looking to collaborate on ...
